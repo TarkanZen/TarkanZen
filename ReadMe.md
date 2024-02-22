@@ -1,6 +1,6 @@
 # 💫 Tarkan Özşen (tarkanozsen)
 ✨ About Me:<br> I am a 3rd Year Artificial Intelligence Student at Bahçeşehir University and a chair member of BAU Artificial Intelligence Society. I dabble with all areas of AI including ML, DL, Generative AI, Reinforcement Learning and more. Creating things (engineering or art-wise) and tinkering with code are a few of my related passtimes. Some of my projects are showcased in this profile: Stroke Prediction Model, Pacman Pathfinding Algorithm etc. You can find me on LinkedIn with the link below! <br>
-🎖️ My Skills:<br> Python, C++, AI, ML, DL, Databases, Cloud Services, Teamwork, Team Communication, Leadership and more listed in my LinkedIn.<br>🎓 Education:<br>Highschool: Terakki Vakfı Okulları (2017-2021), International Baccalaureate (IB Student, November 2020), University: Bahçeşehir University | Artificial Intelligence Engineering (2021-2025)<br>
+🎖️ My Skills:<br> Python, C++, AI, ML, DL, Databases, Cloud Services, Teamwork, Team Communication, Leadership and more listed in my [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarkan-özşen-2b2741298) .<br>🎓 Education:<br>Highschool: Terakki Vakfı Okulları (2017-2021), International Baccalaureate (IB Student, November 2020), University: Bahçeşehir University | Artificial Intelligence Engineering (2021-2025)<br>
 
 
 ## 🌐 Socials:
